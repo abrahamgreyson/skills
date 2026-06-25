@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "skill_id": "c8879b6e-593b-43c4-99e8-6ceebde7a1e8",
+  "skill_id": "3faa1d31-7861-4809-95ee-7813992a700b",
   "path": "web-access",
   "path_key": "web-access",
   "enabled": true,
   "tags": [],
   "source": {
-    "type": "import",
-    "ref": null,
+    "type": "skillssh",
+    "ref": "eze-is/web-access/web-access",
     "subpath": null,
     "branch": null
   }
