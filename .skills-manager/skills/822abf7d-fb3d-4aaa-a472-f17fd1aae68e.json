@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "822abf7d-fb3d-4aaa-a472-f17fd1aae68e",
+  "path": "clone-website",
+  "path_key": "clone-website",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "jcodesmore/ai-website-cloner-template/clone-website",
+    "subpath": ".claude/skills/clone-website",
+    "branch": null
+  }
+}
